@@ -76,7 +76,9 @@ npm start
 
 > ![](/screenshots/9_0_Anu%20admin%20login.png) _Admin LogIn Successful_
 
-> ![](/screenshots/9_1_Admin%20accessToken%20Headers.png) _Setting Access Token in the Headers_
+>  _Setting Access Token in the Headers_
+
+> ![](/screenshots/9_1_Admin%20accessToken%20Headers.png)
 
 ### Adding Products with admin access
 
