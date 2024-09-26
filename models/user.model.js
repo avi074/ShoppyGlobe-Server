@@ -1,5 +1,4 @@
-import mongoose, { model, Schema } from "mongoose"
-import Email from "mongoose-type-email"
+import { model, Schema } from "mongoose"
 import { Roles } from "../constants.js"
 
 const userSchema = new Schema(
